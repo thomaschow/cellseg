@@ -1,0 +1,8 @@
+Cell segmentation
+
+
+segments cells in DIC images and organelles in fluorescent images.
+
+
+
+CellProfiler Pipelines require download of Cell Profiler 2.0
